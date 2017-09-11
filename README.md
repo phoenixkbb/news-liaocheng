@@ -1,5 +1,5 @@
 # news-collector
-Collecting AI related news
+Collecting Germany relevant news
 
 ## Dependencies
 - Ubuntu/Mac recommended.
@@ -23,5 +23,5 @@ echo 'cacert=/etc/ssl/certs/ca-certificates.crt' > ~/.curlrc
 ## Running
 ```bash
 pip install -r requirements.txt
-python ./write_news.py
+python news-liaocheng.py
 ```
