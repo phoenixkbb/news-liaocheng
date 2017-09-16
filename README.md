@@ -25,3 +25,6 @@ echo 'cacert=/etc/ssl/certs/ca-certificates.crt' > ~/.curlrc
 pip install -r requirements.txt
 python news-liaocheng.py
 ```
+
+# Source:
+Google News -> “德国生活” “德国经济” “中国德国” “欧元” 
